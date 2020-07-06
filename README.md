@@ -1,5 +1,7 @@
 # Typing-speed-test
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
+
 This program generates random sentences from the sentences.txt 
 
 The sentences.txt file contains the quotes from famous personalities
